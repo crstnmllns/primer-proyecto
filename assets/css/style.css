@@ -1,0 +1,60 @@
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+.navbar-brand {
+  padding: 0;
+  margin: 0;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.header-section {
+
+  height: 980px;
+  text-align: center;
+  background-image: url('../img/foto.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  padding: 6.25rem 3.125rem;
+}
+
+.parrafo-section {
+  line-height: 3rem;
+}
+
+.txt-section {
+  margin: auto;
+  width: 300px;
+  margin-top: 700px;
+
+}
+
+.card-title {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.5rem;
+  color: #373a3c;
+  text-align: left;
+}
+
+.card-subtitled {
+  font-family: 'Open Sans' , sans-serif;
+  font-weight: lighter;
+  font-size: 1rem;
+}
+
+footer a i {
+  margin: auto 10px;
+  color: white;
+}
