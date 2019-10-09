@@ -9,16 +9,6 @@ body {
   font-weight: bold;
 }
 
-h2 {
-  font-weight: bold;
-  font-size: 3rem;
-}
-
-h3 {
-  font-weight: bold;
-  font-size: 1.5rem;
-}
-
 .header-section {
 
   margin-top: 100px;
@@ -31,16 +21,10 @@ h3 {
 
 }
 
-
-
 .parrafo-section {
   line-height: 3rem;
 }
 
-.header-section div {
-
-
-}
 
 .card-title {
   font-family: 'Oswald', sans-serif;
