@@ -21,23 +21,24 @@ h3 {
 
 .header-section {
 
-  height: 980px;
+  margin-top: 100px;
+  height: 1080px;
   text-align: center;
   background-image: url('../img/foto.jpg');
   background-repeat: no-repeat;
-  background-size: cover;
+  background-position: center;
   color: white;
-  padding: 6.25rem 3.125rem;
+
 }
+
+
 
 .parrafo-section {
   line-height: 3rem;
 }
 
-.txt-section {
-  margin: auto;
-  width: 300px;
-  margin-top: 700px;
+.header-section div {
+
 
 }
 
